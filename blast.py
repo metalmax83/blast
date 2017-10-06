@@ -2,7 +2,6 @@
 # -*- coding: utf-8 -*-
 
 import os, signal, subprocess
-import pygame
 from time import sleep
 import qrtools
 import RPi.GPIO as GPIO
